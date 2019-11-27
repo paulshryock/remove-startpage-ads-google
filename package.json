@@ -1,0 +1,23 @@
+{
+  "name": "remove-startpage-ads-google",
+  "version": "1.0.0",
+  "description": "Google extension that removes ads from all webpages matching startpage.com.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulshryock/remove-startpage-ads-google.git"
+  },
+  "keywords": [
+    "google",
+    "extension",
+    "startpage",
+    "ad",
+    "blocker"
+  ],
+  "author": "",
+  "license": "The Hippocratic License",
+  "bugs": {
+    "url": "https://github.com/paulshryock/remove-startpage-ads-google/issues"
+  },
+  "homepage": "https://github.com/paulshryock/remove-startpage-ads-google#readme"
+}

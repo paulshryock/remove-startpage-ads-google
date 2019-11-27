@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Private
+.env
+
+# Build files
+build/
+dist/
+web-ext-artifacts/
+
+# OS files
+.DS_Store
